@@ -22,7 +22,7 @@ const Navbar = () => {
             <li><a href="#" className="nav-link px-2 link-secondary">Bookings</a></li>
             <li><a href="#" className="nav-link px-2 link-secondary">Login</a></li>
             <button type="button" className="btn btn-outline-secondary">Sign-up</button>
-            <li><a href="#" className="nav-link px-2 link-secondary">EN</a> </li><Image src="/images/Vector 1.png" alt="bn" width={8.12} height={4.06}/>  
+            <li><a href="#" className="nav-link px-2 link-secondary">EN</a> </li>
 
           </ul>
     
